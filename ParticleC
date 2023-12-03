@@ -29,3 +29,5 @@ def create_animation(positions1, positions2, box_size):
         plt.show()
 
         plt.close(fig)
+
+create_animation([2,3],[4,3.5],6)
